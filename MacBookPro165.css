@@ -1,0 +1,311 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.macbook-pro-16-5-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-green-100);
+  width: 336px;
+  height: 1117px;
+}
+.farmer-icon2 {
+  position: absolute;
+  top: 34px;
+  left: 125px;
+  width: 85px;
+  height: 85px;
+  overflow: hidden;
+}
+.macbook-pro-16-5-item {
+  position: absolute;
+  top: 241px;
+  left: -19px;
+  background-color: var(--color-white);
+  width: 355px;
+  height: 52px;
+}
+.farmer2,
+.registration1 {
+  position: absolute;
+  top: 247px;
+  left: 87px;
+  font-size: var(--font-size-xs);
+}
+.farmer2 {
+  top: 368px;
+  left: 117px;
+  font-weight: 500;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.buyer1,
+.vendor {
+  position: absolute;
+  top: 119px;
+  left: 400px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+}
+.buyer1 {
+  top: 452px;
+  left: 124px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.full-name1 {
+  position: absolute;
+  top: 311px;
+  left: 601px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.macbook-pro-16-5-inner {
+  position: absolute;
+  top: 406.5px;
+  left: 600.5px;
+  border-top: 1px solid var(--color-green-100);
+  box-sizing: border-box;
+  width: 324px;
+  height: 1px;
+}
+.contact-info {
+  position: absolute;
+  top: 461px;
+  left: 601px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.macbook-pro-16-5-child1 {
+  position: absolute;
+  top: 556.5px;
+  left: 600.5px;
+  border-top: 1px solid var(--color-green-100);
+  box-sizing: border-box;
+  width: 324px;
+  height: 1px;
+}
+.addres {
+  position: absolute;
+  top: 611px;
+  left: 601px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.macbook-pro-16-5-child2,
+.macbook-pro-16-5-child3 {
+  position: absolute;
+  top: 706.5px;
+  left: 600.5px;
+  border-top: 1px solid var(--color-green-100);
+  box-sizing: border-box;
+  width: 324px;
+  height: 1px;
+}
+.macbook-pro-16-5-child3 {
+  left: 1107.5px;
+}
+.password2 {
+  position: absolute;
+  top: 761px;
+  left: 601px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.macbook-pro-16-5-child4 {
+  position: absolute;
+  top: 856.5px;
+  left: 600.5px;
+  border-top: 1px solid var(--color-green-100);
+  box-sizing: border-box;
+  width: 324px;
+  height: 1px;
+}
+.email2 {
+  position: absolute;
+  top: 311px;
+  left: 1108px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.macbook-pro-16-5-child5 {
+  position: absolute;
+  top: 406.5px;
+  left: 1107.5px;
+  border-top: 1px solid var(--color-green-100);
+  box-sizing: border-box;
+  width: 324px;
+  height: 1px;
+}
+.pincode1 {
+  position: absolute;
+  top: 461px;
+  left: 1108px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.macbook-pro-16-5-child6 {
+  position: absolute;
+  top: 556.5px;
+  left: 1107.5px;
+  border-top: 1px solid var(--color-green-100);
+  box-sizing: border-box;
+  width: 324px;
+  height: 1px;
+}
+.confirm-password1 {
+  position: absolute;
+  top: 761px;
+  left: 1108px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.login-frame,
+.macbook-pro-16-5-child7 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.macbook-pro-16-5-child7 {
+  top: 856.5px;
+  left: 1107.5px;
+  border-top: 1px solid var(--color-green-100);
+  width: 324px;
+  height: 1px;
+}
+.login-frame {
+  top: 989px;
+  left: 29px;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-white);
+  width: 119px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm);
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.sign-up {
+  position: relative;
+}
+.sign-up-wrapper {
+  position: absolute;
+  top: 989px;
+  left: 176px;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-white);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.confirm1 {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.confirm-container {
+  position: absolute;
+  top: 986px;
+  left: 1526px;
+  border-radius: var(--br-md);
+  background-color: var(--color-green-100);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-md);
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-white);
+}
+.vendor1 {
+  position: relative;
+  font-weight: 500;
+}
+.frame-child8 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.vendor-parent {
+  position: absolute;
+  top: 536px;
+  left: 123px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.district-city1 {
+  position: absolute;
+  top: 611px;
+  left: 1108px;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.macbook-pro-16-5-child8,
+.rectangle-div {
+  position: absolute;
+  filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  background-color: rgba(60, 120, 0, 0.8);
+  width: 1728px;
+  height: 1117px;
+}
+.macbook-pro-16-5-child8 {
+  top: 323px;
+  left: 601px;
+  width: 832px;
+  height: 469px;
+}
+.resgistered-successfully {
+  position: absolute;
+  top: 450px;
+  left: 691px;
+  font-size: 64px;
+  display: inline-block;
+  color: var(--color-white);
+  text-align: center;
+  width: 492px;
+}
+.back-icon,
+.check-icon {
+  position: absolute;
+  top: 342px;
+  left: 887px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.back-icon {
+  top: 41px;
+  left: 1634px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+.macbook-pro-16-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-green-100);
+  font-family: var(--font-poppins);
+}

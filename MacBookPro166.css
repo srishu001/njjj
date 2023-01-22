@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.macbook-pro-16-6-child {
+  position: absolute;
+  top: 0;
+  left: 864px;
+  background-color: var(--color-green-100);
+  width: 864px;
+  height: 1117px;
+}
+.e-kisan-mart {
+  position: relative;
+}
+.because-we-value {
+  position: relative;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 666px;
+}
+.e-kisan-mart-parent {
+  position: absolute;
+  top: 322px;
+  left: 127px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  color: var(--color-green-100);
+}
+.farmer-icon1 {
+  position: relative;
+  width: 85px;
+  height: 85px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.google-icon,
+.group-icon {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.google-icon {
+  overflow: hidden;
+}
+.farmer-container,
+.group-parent,
+.register-now-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.group-parent {
+  align-items: flex-end;
+  gap: var(--gap-2xs);
+}
+.farmer-container,
+.register-now-wrapper {
+  position: absolute;
+  align-items: flex-start;
+}
+.farmer-container {
+  top: 22px;
+  left: 127px;
+  gap: 1305px;
+}
+.register-now-wrapper {
+  top: 1054px;
+  left: 1572px;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-white);
+  padding: var(--padding-sm);
+  cursor: pointer;
+  font-size: 14px;
+}
+.email1 {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.frame-child6 {
+  position: relative;
+  border-top: 0.9px solid var(--color-white);
+  box-sizing: border-box;
+  width: 284.08px;
+  height: 0.88px;
+  flex-shrink: 0;
+}
+.login-container {
+  border-radius: 7.72px;
+  border: 0.8px solid var(--color-white);
+  box-sizing: border-box;
+  width: 91.91px;
+  display: flex;
+  flex-direction: row;
+  padding: 7.723369121551514px;
+  align-items: center;
+  justify-content: center;
+  font-size: 18.54px;
+}
+.email-group {
+  position: absolute;
+  top: 420px;
+  left: 1007px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+  font-size: var(--font-size-sm);
+}
+.kindpng-2983674-1-icon {
+  position: absolute;
+  top: 527px;
+  left: 84px;
+  width: 657px;
+  height: 590px;
+  object-fit: cover;
+}
+.macbook-pro-16-6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
